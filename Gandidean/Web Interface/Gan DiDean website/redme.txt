@@ -1,0 +1,4 @@
+The folder contains all the files that make up the website, including the images, PHP files and css. 
+
+The website is currently hosted and available at http://gandidean.tk/ and registrations are functional so you
+should have no issues creating an account and loging in. 
